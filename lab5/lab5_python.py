@@ -1,1 +1,2 @@
-print('5 lab')
+import psycopg2
+
