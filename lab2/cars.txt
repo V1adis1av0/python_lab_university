@@ -1,0 +1,11 @@
+Toyota, 1_500_000, 5
+Ford, 900_000, 4
+Nissan, 1_100_000, 2
+BMW, 2_800_000, 2
+Mercedes, 2_800_000, 2
+Audi, 2_800_000, 2
+Kia, 800_000, 5
+Hyundai, 850_000, 6
+Volkswagen, 950_000, 3
+Peugeot, 700_000, 2
+Renault, 650_000, 4
